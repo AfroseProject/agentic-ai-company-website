@@ -1,0 +1,400 @@
+AGENTS.md:141: new blank line at EOF.
+app/(marketing)/blog/[slug]/page.tsx:68: trailing whitespace.
+[32m+[m[41m        [m
+app/(marketing)/blog/[slug]/page.tsx:76: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/blog/[slug]/page.tsx:89: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/blog/[slug]/page.tsx:108: trailing whitespace.
+[32m+[m[41m        [m
+app/(marketing)/blog/[slug]/page.tsx:110: trailing whitespace.
+[32m+[m[41m      [m
+app/(marketing)/blog/page.tsx:19: trailing whitespace.
+[32m+[m[32m      <ArchitectureHero[m[41m [m
+app/(marketing)/blog/page.tsx:27: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/blog/page.tsx:32: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/blog/page.tsx:52: trailing whitespace.
+[32m+[m[41m                  [m
+app/(marketing)/blog/page.tsx:57: trailing whitespace.
+[32m+[m[41m                  [m
+app/(marketing)/blog/page.tsx:60: trailing whitespace.
+[32m+[m[41m                  [m
+app/(marketing)/blog/page.tsx:74: trailing whitespace.
+[32m+[m[41m            [m
+app/(marketing)/contact/actions.ts:103: trailing whitespace.
+[32m+[m[41m  [m
+app/(marketing)/contact/contact-form.tsx:14: trailing whitespace.
+[32m+[m[32m    <Button[m[41m [m
+app/(marketing)/contact/contact-form.tsx:15: trailing whitespace.
+[32m+[m[32m      type="submit"[m[41m [m
+app/(marketing)/contact/contact-form.tsx:16: trailing whitespace.
+[32m+[m[32m      variant="primary"[m[41m [m
+app/(marketing)/contact/contact-form.tsx:17: trailing whitespace.
+[32m+[m[32m      size="lg"[m[41m [m
+app/(marketing)/contact/contact-form.tsx:56: trailing whitespace.
+[32m+[m[41m        [m
+app/(marketing)/contact/contact-form.tsx:128: trailing whitespace.
+[32m+[m[41m        [m
+app/(marketing)/contact/contact-form.tsx:136: trailing whitespace.
+[32m+[m[32m          <textarea[m[41m [m
+app/(marketing)/contact/contact-form.tsx:137: trailing whitespace.
+[32m+[m[32m            id="message"[m[41m [m
+app/(marketing)/contact/contact-form.tsx:138: trailing whitespace.
+[32m+[m[32m            name="message"[m[41m [m
+app/(marketing)/contact/contact-form.tsx:146: trailing whitespace.
+[32m+[m[41m      [m
+app/(marketing)/contact/page.tsx:16: trailing whitespace.
+[32m+[m[41m        [m
+app/(marketing)/contact/page.tsx:18: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/contact/page.tsx:24: trailing whitespace.
+[32m+[m[41m            [m
+app/(marketing)/contact/page.tsx:28: trailing whitespace.
+[32m+[m[41m            [m
+app/(marketing)/contact/page.tsx:45: trailing whitespace.
+[32m+[m[41m              [m
+app/(marketing)/contact/page.tsx:57: trailing whitespace.
+[32m+[m[41m              [m
+app/(marketing)/contact/page.tsx:70: trailing whitespace.
+[32m+[m[41m            [m
+app/(marketing)/contact/page.tsx:77: trailing whitespace.
+[32m+[m[41m            [m
+app/(marketing)/contact/page.tsx:82: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/contact/page.tsx:84: trailing whitespace.
+[32m+[m[41m        [m
+app/(marketing)/how-it-works/page.tsx:63: trailing whitespace.
+[32m+[m[32m      <ArchitectureHero[m[41m [m
+app/(marketing)/how-it-works/page.tsx:72: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/how-it-works/page.tsx:76: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/how-it-works/page.tsx:106: trailing whitespace.
+[32m+[m[41m                [m
+app/(marketing)/how-it-works/page.tsx:109: trailing whitespace.
+[32m+[m[41m                    [m
+app/(marketing)/industries/[slug]/page.tsx:29: trailing whitespace.
+[32m+[m[41m  [m
+app/(marketing)/industries/[slug]/page.tsx:36: trailing whitespace.
+[32m+[m[32m      <ArchitectureHero[m[41m [m
+app/(marketing)/industries/[slug]/page.tsx:44: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/industries/[slug]/page.tsx:50: trailing whitespace.
+[32m+[m[32m              <polygon[m[41m [m
+app/(marketing)/industries/[slug]/page.tsx:52: trailing whitespace.
+[32m+[m[32m                stroke="currentColor"[m[41m [m
+app/(marketing)/industries/[slug]/page.tsx:53: trailing whitespace.
+[32m+[m[32m                strokeWidth="1"[m[41m [m
+app/(marketing)/industries/[slug]/page.tsx:68: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/industries/[slug]/page.tsx:82: trailing whitespace.
+[32m+[m[41m            [m
+app/(marketing)/industries/[slug]/page.tsx:152: trailing whitespace.
+[32m+[m[41m      [m
+app/(marketing)/industries/page.tsx:28: trailing whitespace.
+[32m+[m[32m            <Link[m[41m [m
+app/(marketing)/industries/page.tsx:29: trailing whitespace.
+[32m+[m[32m              key={industry.id}[m[41m [m
+app/(marketing)/industries/page.tsx:39: trailing whitespace.
+[32m+[m[41m              [m
+app/(marketing)/privacy/page.tsx:17: trailing whitespace.
+[32m+[m[41m        [m
+app/(marketing)/privacy/page.tsx:19: trailing whitespace.
+[32m+[m[32m          <Link[m[41m [m
+app/(marketing)/privacy/page.tsx:20: trailing whitespace.
+[32m+[m[32m            href="/contact"[m[41m [m
+app/(marketing)/privacy/page.tsx:28: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/privacy/page.tsx:32: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/privacy/page.tsx:109: trailing whitespace.
+[32m+[m[32m            <a[m[41m [m
+app/(marketing)/privacy/page.tsx:110: trailing whitespace.
+[32m+[m[32m              href="mailto:afrosea27@gmail.com"[m[41m [m
+app/(marketing)/privacy/page.tsx:117: trailing whitespace.
+[32m+[m[41m        [m
+app/(marketing)/resources/page.tsx:77: trailing whitespace.
+[32m+[m[32m      <ArchitectureHero[m[41m [m
+app/(marketing)/resources/page.tsx:87: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/resources/page.tsx:98: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/resources/page.tsx:107: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/resources/page.tsx:121: trailing whitespace.
+[32m+[m[41m            [m
+app/(marketing)/services/ai-engineering/page.tsx:67: trailing whitespace.
+[32m+[m[32m      <ArchitectureHero[m[41m [m
+app/(marketing)/services/ai-engineering/page.tsx:76: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-engineering/page.tsx:81: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-engineering/page.tsx:91: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-engineering/page.tsx:100: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-engineering/page.tsx:111: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-engineering/page.tsx:121: trailing whitespace.
+[32m+[m[41m            [m
+app/(marketing)/services/ai-engineering/page.tsx:126: trailing whitespace.
+[32m+[m[41m                [m
+app/(marketing)/services/ai-engineering/page.tsx:129: trailing whitespace.
+[32m+[m[32m                    <span className="w-6 h-6 rounded-full bg-primary/10 border border-primary/30 flex items-center justify-center mr-4 text-[10px] font-mono text-primary">{i + 1}</span>[m[41m [m
+app/(marketing)/services/ai-governance/page.tsx:70: trailing whitespace.
+[32m+[m[32m      <ArchitectureHero[m[41m [m
+app/(marketing)/services/ai-governance/page.tsx:80: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-governance/page.tsx:84: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-governance/page.tsx:91: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-governance/page.tsx:95: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-governance/page.tsx:99: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-governance/page.tsx:103: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-security/page.tsx:72: trailing whitespace.
+[32m+[m[32m      <ArchitectureHero[m[41m [m
+app/(marketing)/services/ai-security/page.tsx:82: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-security/page.tsx:85: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-security/page.tsx:90: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-security/page.tsx:95: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-security/page.tsx:99: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/services/ai-security/page.tsx:103: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/solutions/agent-as-a-service/page.tsx:38: trailing whitespace.
+[32m+[m[41m      [m
+app/(marketing)/solutions/agent-as-a-service/page.tsx:43: trailing whitespace.
+[32m+[m[41m        [m
+app/(marketing)/solutions/agent-as-a-service/page.tsx:58: trailing whitespace.
+[32m+[m[32m            <Link[m[41m [m
+app/(marketing)/solutions/agent-as-a-service/page.tsx:59: trailing whitespace.
+[32m+[m[32m              href="/contact"[m[41m [m
+app/(marketing)/solutions/agent-as-a-service/page.tsx:75: trailing whitespace.
+[32m+[m[41m           [m
+app/(marketing)/solutions/agent-as-a-service/page.tsx:79: trailing whitespace.
+[32m+[m[41m              [m
+app/(marketing)/solutions/agent-as-a-service/page.tsx:82: trailing whitespace.
+[32m+[m[41m                   [m
+app/(marketing)/solutions/agent-as-a-service/page.tsx:85: trailing whitespace.
+[32m+[m[41m                   [m
+app/(marketing)/solutions/agent-as-a-service/page.tsx:88: trailing whitespace.
+[32m+[m[41m                   [m
+app/(marketing)/solutions/agent-as-a-service/page.tsx:113: trailing whitespace.
+[32m+[m[41m           [m
+app/(marketing)/solutions/agentic-automation/page.tsx:35: trailing whitespace.
+[32m+[m[32m      <ArchitectureHero[m[41m [m
+app/(marketing)/solutions/agentic-automation/page.tsx:47: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/solutions/agentic-automation/page.tsx:58: trailing whitespace.
+[32m+[m[32m      <LifecycleSteps[m[41m [m
+app/(marketing)/solutions/agentic-automation/page.tsx:64: trailing whitespace.
+[32m+[m[32m      <IntegrationGrid[m[41m [m
+app/(marketing)/solutions/ai-service-desk/page.tsx:33: trailing whitespace.
+[32m+[m[32m      <ArchitectureHero[m[41m [m
+app/(marketing)/solutions/ai-service-desk/page.tsx:44: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/solutions/ai-service-desk/page.tsx:48: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/solutions/ai-service-desk/page.tsx:53: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/solutions/ai-service-desk/page.tsx:61: trailing whitespace.
+[32m+[m[32m      <LifecycleSteps[m[41m [m
+app/(marketing)/solutions/ai-service-desk/page.tsx:67: trailing whitespace.
+[32m+[m[32m      <IntegrationGrid[m[41m [m
+app/(marketing)/solutions/custom-ai-agents/page.tsx:36: trailing whitespace.
+[32m+[m[32m      <ArchitectureHero[m[41m [m
+app/(marketing)/solutions/custom-ai-agents/page.tsx:46: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/solutions/custom-ai-agents/page.tsx:51: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/solutions/custom-ai-agents/page.tsx:60: trailing whitespace.
+[32m+[m[32m      <LifecycleSteps[m[41m [m
+app/(marketing)/solutions/custom-ai-agents/page.tsx:66: trailing whitespace.
+[32m+[m[32m      <IntegrationGrid[m[41m [m
+app/(marketing)/solutions/multi-agent-systems/page.tsx:33: trailing whitespace.
+[32m+[m[32m      <ArchitectureHero[m[41m [m
+app/(marketing)/solutions/multi-agent-systems/page.tsx:43: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/solutions/multi-agent-systems/page.tsx:49: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/solutions/multi-agent-systems/page.tsx:55: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/solutions/multi-agent-systems/page.tsx:62: trailing whitespace.
+[32m+[m[32m      <LifecycleSteps[m[41m [m
+app/(marketing)/solutions/multi-agent-systems/page.tsx:68: trailing whitespace.
+[32m+[m[32m      <IntegrationGrid[m[41m [m
+app/(marketing)/technology/page.tsx:15: trailing whitespace.
+[32m+[m[32m      <ArchitectureHero[m[41m [m
+app/(marketing)/technology/page.tsx:25: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/technology/page.tsx:29: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/technology/page.tsx:35: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/technology/page.tsx:39: trailing whitespace.
+[32m+[m[41m          [m
+app/(marketing)/technology/page.tsx:51: trailing whitespace.
+[32m+[m[41m        [m
+app/(marketing)/technology/page.tsx:59: trailing whitespace.
+[32m+[m[41m            [m
+app/(marketing)/technology/page.tsx:62: trailing whitespace.
+[32m+[m[41m              [m
+app/globals.css:125: new blank line at EOF.
+components/hero/agentic-visualization.tsx:29: trailing whitespace.
+[32m+[m[32m          .animate-flow {[m[41m [m
+components/hero/agentic-visualization.tsx:30: trailing whitespace.
+[32m+[m[32m            animation: none !important;[m[41m [m
+components/hero/agentic-visualization.tsx:34: trailing whitespace.
+[32m+[m[41m      [m
+components/hero/agentic-visualization.tsx:36: trailing whitespace.
+[32m+[m[32m      <svg[m[41m [m
+components/hero/agentic-visualization.tsx:37: trailing whitespace.
+[32m+[m[32m        viewBox="0 0 800 700"[m[41m [m
+components/hero/agentic-visualization.tsx:52: trailing whitespace.
+[32m+[m[41m          [m
+components/hero/agentic-visualization.tsx:62: trailing whitespace.
+[32m+[m[41m          [m
+components/hero/agentic-visualization.tsx:97: trailing whitespace.
+[32m+[m[41m          [m
+components/hero/agentic-visualization.tsx:132: trailing whitespace.
+[32m+[m[41m        [m
+components/hero/agentic-visualization.tsx:137: trailing whitespace.
+[32m+[m[41m        [m
+components/hero/agentic-visualization.tsx:150: trailing whitespace.
+[32m+[m[32m      <svg[m[41m [m
+components/hero/agentic-visualization.tsx:151: trailing whitespace.
+[32m+[m[32m        viewBox="0 0 400 800"[m[41m [m
+components/hero/agentic-visualization.tsx:171: trailing whitespace.
+[32m+[m[41m          [m
+components/hero/agentic-visualization.tsx:201: trailing whitespace.
+[32m+[m[41m          [m
+components/hero/agentic-visualization.tsx:204: trailing whitespace.
+[32m+[m[41m          [m
+components/hero/agentic-visualization.tsx:246: trailing whitespace.
+[32m+[m[41m        [m
+components/hero/agentic-visualization.tsx:251: trailing whitespace.
+[32m+[m[41m        [m
+components/hero/hero.tsx:8: trailing whitespace.
+[32m+[m[32m    <section[m[41m [m
+components/hero/hero.tsx:14: trailing whitespace.
+[32m+[m[41m          [m
+components/hero/hero.tsx:28: trailing whitespace.
+[32m+[m[41m            [m
+components/hero/hero.tsx:40: trailing whitespace.
+[32m+[m[32m          <div[m[41m [m
+components/home/agent-as-a-service.tsx:22: trailing whitespace.
+[32m+[m[41m        [m
+components/home/agent-as-a-service.tsx:38: trailing whitespace.
+[32m+[m[41m          [m
+components/home/agent-as-a-service.tsx:46: trailing whitespace.
+[32m+[m[41m                  [m
+components/home/agent-as-a-service.tsx:66: trailing whitespace.
+[32m+[m[41m                  [m
+components/home/agent-as-a-service.tsx:97: trailing whitespace.
+[32m+[m[41m                  [m
+components/home/agent-as-a-service.tsx:106: trailing whitespace.
+[32m+[m[32m          <Link[m[41m [m
+components/home/agent-as-a-service.tsx:107: trailing whitespace.
+[32m+[m[32m            href="/contact"[m[41m [m
+components/home/capabilities.tsx:9: trailing whitespace.
+[32m+[m[41m          [m
+components/home/capabilities.tsx:16: trailing whitespace.
+[32m+[m[41m              [m
+components/home/capabilities.tsx:20: trailing whitespace.
+[32m+[m[41m              [m
+components/home/capabilities.tsx:24: trailing whitespace.
+[32m+[m[41m              [m
+components/home/capabilities.tsx:26: trailing whitespace.
+[32m+[m[32m                <Link[m[41m [m
+components/home/capabilities.tsx:27: trailing whitespace.
+[32m+[m[32m                  href="/solutions/custom-ai-agents"[m[41m [m
+components/home/capabilities.tsx:39: trailing whitespace.
+[32m+[m[41m              [m
+components/home/capabilities.tsx:43: trailing whitespace.
+[32m+[m[41m                [m
+components/home/capabilities.tsx:49: trailing whitespace.
+[32m+[m[41m                  [m
+components/home/capabilities.tsx:64: trailing whitespace.
+[32m+[m[41m                  [m
+components/home/capabilities.tsx:76: trailing whitespace.
+[32m+[m[41m                [m
+components/home/capabilities.tsx:82: trailing whitespace.
+[32m+[m[41m                  [m
+components/home/capabilities.tsx:107: trailing whitespace.
+[32m+[m[41m                [m
+components/home/capabilities.tsx:113: trailing whitespace.
+[32m+[m[41m                  [m
+components/home/capabilities.tsx:138: trailing whitespace.
+[32m+[m[41m                [m
+components/home/capabilities.tsx:144: trailing whitespace.
+[32m+[m[41m                  [m
+components/home/capabilities.tsx:167: trailing whitespace.
+[32m+[m[41m              [m
+components/home/capabilities.tsx:169: trailing whitespace.
+[32m+[m[41m            [m
+components/home/capabilities.tsx:172: trailing whitespace.
+[32m+[m[32m              <Link[m[41m [m
+components/home/capabilities.tsx:173: trailing whitespace.
+[32m+[m[32m                href="/solutions/custom-ai-agents"[m[41m [m
+components/home/final-cta.tsx:8: trailing whitespace.
+[32m+[m[41m      [m
+components/home/final-cta.tsx:13: trailing whitespace.
+[32m+[m[41m        [m
+components/home/final-cta.tsx:32: trailing whitespace.
+[32m+[m[32m          <Link[m[41m [m
+components/home/final-cta.tsx:33: trailing whitespace.
+[32m+[m[32m            href="/solutions/custom-ai-agents"[m[41m [m
+components/home/final-cta.tsx:38: trailing whitespace.
+[32m+[m[32m          <Link[m[41m [m
+components/home/final-cta.tsx:39: trailing whitespace.
+[32m+[m[32m            href="/contact"[m[41m [m
+components/home/reference-architectures.tsx:66: trailing whitespace.
+[32m+[m[41m        [m
+components/home/reference-architectures.tsx:84: trailing whitespace.
+[32m+[m[41m              [m
+components/home/reference-architectures.tsx:99: trailing whitespace.
+[32m+[m[41m              [m
+components/home/reference-architectures.tsx:105: trailing whitespace.
+[32m+[m[41m                      [m
+components/home/reference-architectures.tsx:139: trailing whitespace.
+[32m+[m[41m              [m
+components/home/security-governance.tsx:9: trailing whitespace.
+[32m+[m[41m          [m
+components/home/security-governance.tsx:64: trailing whitespace.
+[32m+[m[32m              <Link[m[41m [m
+components/home/security-governance.tsx:65: trailing whitespace.
+[32m+[m[32m                href="/services/ai-security"[m[41m [m
+components/home/security-governance.tsx:78: trailing whitespace.
+[32m+[m[41m              [m
+components/home/security-governance.tsx:86: trailing whitespace.
+[32m+[m[41m                [m
+components/home/security-governance.tsx:90: trailing whitespace.
+[32m+[m[41m                  [m
+components/home/security-governance.tsx:95: trailing whitespace.
+[32m+[m[41m                    [m
+components/home/security-governance.tsx:107: trailing whitespace.
+[32m+[m[41m                  [m
+components/home/security-governance.tsx:116: trailing whitespace.
+[32m+[m[41m          [m
+components/home/value-proposition.tsx:36: trailing whitespace.
+[32m+[m[41m          [m
+components/home/value-proposition.tsx:44: trailing whitespace.
+[32m+[m[41m              [m
+components/home/value-proposition.tsx:48: trailing whitespace.
+[32m+[m[41m              [m
+components/home/value-proposition.tsx:67: trailing whitespace.
+[32m+[m[41m               [m
+components/home/value-proposition.tsx:71: trailing whitespace.
+[32m+[m[41m                 [m
+components/home/value-proposition.tsx:107: trailing whitespace.
+[32m+[m[41m      
