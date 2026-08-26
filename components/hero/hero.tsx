@@ -27,7 +27,7 @@ export function Hero() {
             </div>
             
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
-              <Link href="/build" className={buttonVariants({ variant: "primary", size: "lg" })}>
+              <Link href="/contact" className={buttonVariants({ variant: "primary", size: "lg" })}>
                 BUILD YOUR AI AGENT
               </Link>
               <Link href="/contact" className={buttonVariants({ variant: "secondary", size: "lg" })}>
