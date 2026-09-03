@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -65,7 +66,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html
+     <html
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
@@ -73,6 +74,13 @@ export default function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+
+        <Script
+          src="https://firm-exposure-extend-constitutes.trycloudflare.com/sdk.js"
+          data-visitoriq-key="viq_site_j_WeRd0R6TaMxz8I7QzWFClx"
+          data-visitoriq-endpoint="https://firm-exposure-extend-constitutes.trycloudflare.com/api/ingest"
+          strategy="afterInteractive"
         />
         {children}
       </body>
