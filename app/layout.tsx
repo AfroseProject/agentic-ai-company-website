@@ -77,7 +77,7 @@ export default function RootLayout({
         />
 
         <Script
-          src="https://firm-exposure-extend-constitutes.trycloudflare.com/sdk.js"
+          src="https://spatial-movie-purchase-facial.trycloudflare.com/sdk.js"
           data-visitoriq-key="viq_site_j_WeRd0R6TaMxz8I7QzWFClx"
           data-visitoriq-endpoint="https://firm-exposure-extend-constitutes.trycloudflare.com/api/ingest"
           strategy="afterInteractive"
